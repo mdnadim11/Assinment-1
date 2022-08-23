@@ -22,9 +22,37 @@ body, html {
       
   }
   .bnt{
+      width: 10%;
+      height: 30%;
       color: #fff;
       background-color: rgb(197, 62, 62);
       margin: 20px;
       padding: 10px;
       border-radius: 5px;
+  }
+  .donate-today{
+      text-align: center;
+      
+  }
+  .dntarea{
+      display: flex;
+     
+  }
+  .dntarea h2{
+   width: 60%;
+   margin: 50px;
+   padding: 30px;
+  background-color: whitesmoke;
+   box-shadow: 10px 10px 100px whitesmoke;
+   color: rgb(65, 55, 55);
+  }
+  #png{
+      border: 5px solid rgb(184, 50, 50);
+      color: rgb(184, 50, 50);
+  }
+  .amount h5{
+    color: rgb(84, 96, 97);
+  }
+  .amount hr{
+    width: 50%;
   }
