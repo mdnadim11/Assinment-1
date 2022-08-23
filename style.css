@@ -1,0 +1,30 @@
+body, html {
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+  
+
+  }
+  h1{
+      font-size: 50px;
+  }
+  
+  .hed-section {
+    background-image: url("images/donation6.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .mainePart{
+      text-align: center;
+      color: #E6E6E6;
+      padding-top: 300px;
+      
+  }
+  .bnt{
+      color: #fff;
+      background-color: rgb(197, 62, 62);
+      margin: 20px;
+      padding: 10px;
+      border-radius: 5px;
+  }
