@@ -56,3 +56,40 @@ body, html {
   .amount hr{
     width: 50%;
   }
+  .donate-plan{
+    text-align: center;
+  }
+  .plan{
+    display: flex;
+    margin: 50px;
+    padding: 30px;
+    background-color: whitesmoke;
+   box-shadow: 10px 10px 50px whitesmoke;
+
+  }
+  .email-fild{
+    margin: 50px;
+    padding: 30px;
+    background-color: rgb(92, 78, 83);
+   box-shadow: 10px 10px 50px rgb(177, 152, 160);
+  }
+  .email-fild input{
+ padding: 10px;
+}
+.sub-bnt{
+  background-color: rgb(197, 62, 62);
+  border-radius: 5px;
+
+}
+footer{
+  text-align: center;
+  background-color: rgb(20, 18, 18);
+  
+}
+footer h1{
+  color: rgb(197, 62, 62);
+}
+footer h5{
+ color: #fff;
+}
+  
