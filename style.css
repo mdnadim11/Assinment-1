@@ -92,4 +92,11 @@ footer h1{
 footer h5{
  color: #fff;
 }
-  
+  .Address-area{
+    display: flex;
+  margin: 10px;
+  padding: 30px;
+  }
+  .contact{
+    margin-left: 40px;
+  }
